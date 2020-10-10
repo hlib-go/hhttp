@@ -1,4 +1,4 @@
-package protocol
+package hhttp
 
 import (
 	"net/http"
